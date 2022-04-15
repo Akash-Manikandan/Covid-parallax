@@ -10,7 +10,9 @@
 	let Countries = data.Countries;
 	
 </script>
-
+<svelte:head>
+	<title>Covid-19</title>
+</svelte:head>
 <div style="background-color:#000;">
 	<Parallax sections={3} bind:this={parallax}>
 		<Globalcomp {Global} {parallax}/>
