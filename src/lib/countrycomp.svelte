@@ -106,14 +106,14 @@
 		font-weight: bold;
 		text-decoration: none;
 		margin: 30px 0;
-		border: 2px solid #ff7675;
+		border: 2px solid #8c2e17;
 		padding: 14px 60px;
 		text-transform: uppercase;
 		overflow: hidden;
 		transition: 1s all ease;
 	}
 	.btn::before {
-		background: #ff7675;
+		background: #8c2e17;
 		content: '';
 		position: absolute;
 		top: 50%;
