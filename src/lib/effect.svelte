@@ -59,6 +59,7 @@
 	<img {src} alt="" style="display: block; width: 20%; margin-left: 55%;" />
 	<img {src} alt="" style="display: block; width: 10%; margin-left: 15%;" />
 </ParallaxLayer>
+
 <style>
 	.fancy {
 		font-size: 2.5rem;
