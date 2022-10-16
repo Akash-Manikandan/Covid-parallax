@@ -8,6 +8,7 @@
 	export let data;
 	let Global = data.Global;
 	let Countries = data.Countries;
+	
 </script>
 
 <svelte:head>
